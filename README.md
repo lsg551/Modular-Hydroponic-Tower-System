@@ -1,4 +1,4 @@
-# Modular-Hydroponic-Tower-System
+# Modular Hydroponic Tower System
 
 The _Modular Hydroponic Tower System_ (MHTS) is a highly modular, scalable and customizable [hydroponic](https://en.wikipedia.org/wiki/Hydroponics) tower system. It is designed to be 3D-printable and easy to assemble.
 
